@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meta charset="UTF-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <title>Política de Privacidade</title>
+	</head>
+	
+	<body>
+	
+		<h1>Política de Privacidade</h1>
+
+		<p>Obrigado por utilizar o nosso aplicativo! Esta Política de Privacidade tem como objetivo informar sobre a coleta e uso dos seus dados pessoais quando você utilizar nosso aplicativo "Checklist Logi360". Nós levamos sua privacidade muito a sério e estamos comprometidos em proteger suas informações pessoais.</p>
+
+		<h2>Coleta de dados</h2>
+		<p>Nenhum dado pessoal é coletado, todos os cadastros são realizados em uma plataforma externa, em um nível gerencial da emprea de uso.</p>
+
+		<h2>Uso dos dados</h2>
+		<p>Nenhum dado pessoal do usuário é utilizado.</p>
+
+		<h2>Segurança dos dados</h2>
+		<p>Tomamos medidas de segurança adequadas para proteger seus dados pessoais contra o acesso não autorizado, alteração, divulgação ou destruição.</p>
+
+		<h2>Alterações na política de privacidade</h2>
+		<p>Reservamo-nos o direito de alterar esta Política de Privacidade a qualquer momento. Notificaremos os usuários sobre qualquer mudança significativa na coleta ou uso de suas informações pessoais.</p>
+
+		<h2>Contato</h2>
+		<p>Se você tiver alguma dúvida ou preocupação em relação à nossa Política de Privacidade, entre em contato conosco pelo e-mail matheus.cunha@tecadi.com.br</p>
+
+
+		<p>Atualizado em 07 de novembro de 2023.</p>
+
+	
+	</body>
+	
+
+</html>
